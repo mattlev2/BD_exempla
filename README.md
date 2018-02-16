@@ -1,0 +1,1 @@
+Bienvenue sur le dépôt BD_exempla, pour "Base de données d'exempla [castillans]". Ce dépôt a pour objectif final la création d'une base de données consultable sur le genre des  _exempla_ (ou exemples) en castillan ou plus généralement en espagnol; il part de textes médiévaux mais a vocation à contenir des textes exemplaires de toutes les époques, au vu de la fortune du genre. 
