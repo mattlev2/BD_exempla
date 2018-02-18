@@ -1,0 +1,5 @@
+Les éléments nécéssaires:
+
+
+- listPerson avec au moins un <person> dedans, référencé par un persName et une description (si possible, lien avec wikipédia?)
+- seg avec un type exemple si le texte versé contient d'autres textes

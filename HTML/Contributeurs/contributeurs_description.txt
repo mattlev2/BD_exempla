@@ -1,0 +1,14 @@
+Ici, la liste des contributeurs: utiliser les fichiers XML et en extraire les noms des auteurs, leur mail, le titre de l'oeuvre dont les textes ont été versés, et mettre le tout dans une nouvelle table
+
+CREATE TABLE exempla
+(
+  id_author              INT unsigned NOT NULL AUTO_INCREMENT,  # ID unique de l'auteur
+  author_forename 	 INT NOT NULL,				# Nom de l'auteur
+  author_surname         VARCHAR(150),            	        # Prénom de l'auteur
+  author_email		 VARCHAR(150),				# Courrier électronique de l'auteur
+  text_title             VARCHAR(150),              		# Titre du texte versé (peut être à champ multiple)
+  text_id		 VARCHAR(150),                          # Identifiant du texte versé. 
+  PRIMARY KEY     	 (id_author)                            # Make the identsource the primary key
+);
+
+
