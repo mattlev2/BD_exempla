@@ -1,9 +1,0 @@
-Ici doit apparaître la page de téléversement des exemples. Une fois le fichier chargé, une script doit se charger de : 
-- vérifier la taille et le type de document, pour rejetter tout document non-xml. 
-- valider le document à l'aide d'un schéma donné pour que la transformation se passe correctement
-- transformer le document en une série d'instructions sql: a) extraction des informations importantes pour chaque exemple [décider le critère principal], b) extraction du titre et des informations concernant l'auteur pour le verser dans une table contenant les noms d'auteur (voir ../Contributeurs/description_contributeurs.txt) 
-- transformer le document en un autre document (xml?) où ne sont gardés que les exemples, si le texte originel ne contenait pas que cela, avec une identification claire et précise des exemples par un identifiant unique
-
-
-Plusieurs points à faire attention: 
-- redondance de l'information. Comment faire ? 
